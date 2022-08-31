@@ -5,7 +5,7 @@ import vue from "@vitejs/plugin-vue";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Simple-Note-App/",
+  base: "/Simple-NoteApp-CRUD/",
   plugins: [vue()],
   resolve: {
     alias: {
